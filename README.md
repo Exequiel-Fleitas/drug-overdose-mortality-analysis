@@ -17,7 +17,3 @@ This project investigates how age and sex influence drug overdose death rates in
 - dplyr
 - ggplot2
 
-## Key Findings
-- Males had significantly higher overdose death rates than females.
-- Adults aged 35–64 experienced the highest overdose mortality rates.
-- Age and sex were significant predictors of overdose deaths.
